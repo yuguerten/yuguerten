@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mouhcine AKA yuguerten
+- 👋 Hi, I’m Mouhcine
 - 👀 I’m interested in Data and its applications
 
 <!---
