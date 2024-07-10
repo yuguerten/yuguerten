@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mouhcine Ouaaziz</h1>
-<h3 align="center">R&D Data/AI Scientist Intern at Hassan 2 University also I am Big Data and IoT master's student</h3>
+<h3 align="center">R&D Data/AI Scientist Intern at Hassan 2 University also I am Big Data and IoT master's student at ENSAM Casablanca</h3>
 
 - 📫 How to reach me **mouhcineouaaziz@gmail.com**
 
